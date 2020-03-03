@@ -3,6 +3,7 @@
 dependencies:
     -matplotlib
     -numpy
+    -ImageMagick (https://imagemagick.org/index.php)
 
 description:
     generates an animation of julia sets according to a path of seedpoints defined parametrically
